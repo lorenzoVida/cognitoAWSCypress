@@ -1,0 +1,7 @@
+{
+    "attributes": {
+        "email": [{ "email_state": "email_verified", "value": ["true", "false"] }],
+
+        "onboardingStages": [{}]
+    }
+}
